@@ -11,6 +11,13 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OverloadedOrama&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--
 **OverloadedOrama/OverloadedOrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
