@@ -16,11 +16,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/flathub/com.orama_interactive.Pixelorama/issues/11) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-2. 🗣 Commented on [#11](https://github.com/flathub/com.orama_interactive.Pixelorama/issues/11) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-3. 🗣 Commented on [#11](https://github.com/flathub/com.orama_interactive.Pixelorama/issues/11) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-4. 💪 Opened PR [#11](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/11) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-5. 💪 Opened PR [#367](https://github.com/godotengine/godot-website/pull/367) in [godotengine/godot-website](https://github.com/godotengine/godot-website)
+1. 🗣 Commented on [#10](https://github.com/flathub/com.orama_interactive.Pixelorama/issues/10) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+2. ❌ Closed PR [#10](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/10) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+3. 🎉 Merged PR [#538](https://github.com/Orama-Interactive/Pixelorama/pull/538) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🗣 Commented on [#11](https://github.com/flathub/com.orama_interactive.Pixelorama/issues/11) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+5. 🗣 Commented on [#11](https://github.com/flathub/com.orama_interactive.Pixelorama/issues/11) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
