@@ -16,11 +16,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#618](https://github.com/Orama-Interactive/Pixelorama/issues/618) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 💪 Opened PR [#616](https://github.com/Orama-Interactive/Pixelorama/pull/616) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🎉 Merged PR [#535](https://github.com/Orama-Interactive/Pixelorama/pull/535) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 💪 Opened PR [#55841](https://github.com/godotengine/godot/pull/55841) in [godotengine/godot](https://github.com/godotengine/godot)
-5. ❗️ Opened issue [#3660](https://github.com/godotengine/godot-proposals/issues/3660) in [godotengine/godot-proposals](https://github.com/godotengine/godot-proposals)
+1. 🗣 Commented on [#618](https://github.com/Orama-Interactive/Pixelorama/issues/618) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. ❗️ Closed issue [#618](https://github.com/Orama-Interactive/Pixelorama/issues/618) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 💪 Opened PR [#616](https://github.com/Orama-Interactive/Pixelorama/pull/616) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🎉 Merged PR [#535](https://github.com/Orama-Interactive/Pixelorama/pull/535) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 💪 Opened PR [#55841](https://github.com/godotengine/godot/pull/55841) in [godotengine/godot](https://github.com/godotengine/godot)
 <!--END_SECTION:activity-->
 
 <!--
