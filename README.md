@@ -16,11 +16,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/flathub/com.orama_interactive.Pixelorama/issues/12) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-2. 💪 Opened PR [#12](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/12) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-3. 💪 Opened PR [#621](https://github.com/Orama-Interactive/Pixelorama/pull/621) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🗣 Commented on [#620](https://github.com/Orama-Interactive/Pixelorama/issues/620) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. ❗️ Closed issue [#620](https://github.com/Orama-Interactive/Pixelorama/issues/620) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. ❌ Reopened PR [#12](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/12) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+2. ❌ Closed PR [#12](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/12) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+3. 🗣 Commented on [#12](https://github.com/flathub/com.orama_interactive.Pixelorama/issues/12) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+4. 💪 Opened PR [#12](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/12) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+5. 💪 Opened PR [#621](https://github.com/Orama-Interactive/Pixelorama/pull/621) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
