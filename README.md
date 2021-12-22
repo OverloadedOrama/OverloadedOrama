@@ -16,11 +16,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/flathub/com.orama_interactive.Pixelorama/issues/12) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-2. 🎉 Merged PR [#12](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/12) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-3. 💪 Opened PR [#1](https://github.com/Nyctovios/Parkour-Masters/pull/1) in [Nyctovios/Parkour-Masters](https://github.com/Nyctovios/Parkour-Masters)
-4. 🗣 Commented on [#12](https://github.com/flathub/com.orama_interactive.Pixelorama/issues/12) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-5. 🗣 Commented on [#12](https://github.com/flathub/com.orama_interactive.Pixelorama/issues/12) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+1. 🎉 Merged PR [#31](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/31) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+2. 🎉 Merged PR [#30](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/30) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+3. 🗣 Commented on [#12](https://github.com/flathub/com.orama_interactive.Pixelorama/issues/12) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+4. 🎉 Merged PR [#12](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/12) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+5. 💪 Opened PR [#1](https://github.com/Nyctovios/Parkour-Masters/pull/1) in [Nyctovios/Parkour-Masters](https://github.com/Nyctovios/Parkour-Masters)
 <!--END_SECTION:activity-->
 
 <!--
