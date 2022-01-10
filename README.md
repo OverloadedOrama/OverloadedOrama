@@ -16,11 +16,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/Technohacker/godot_pixelorama_importer/issues/6) in [Technohacker/godot_pixelorama_importer](https://github.com/Technohacker/godot_pixelorama_importer)
+1. 🎉 Merged PR [#629](https://github.com/Orama-Interactive/Pixelorama/pull/629) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 2. 🗣 Commented on [#6](https://github.com/Technohacker/godot_pixelorama_importer/issues/6) in [Technohacker/godot_pixelorama_importer](https://github.com/Technohacker/godot_pixelorama_importer)
-3. 💪 Opened PR [#6](https://github.com/Technohacker/godot_pixelorama_importer/pull/6) in [Technohacker/godot_pixelorama_importer](https://github.com/Technohacker/godot_pixelorama_importer)
-4. 🎉 Merged PR [#630](https://github.com/Orama-Interactive/Pixelorama/pull/630) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 💪 Opened PR [#629](https://github.com/Orama-Interactive/Pixelorama/pull/629) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🗣 Commented on [#6](https://github.com/Technohacker/godot_pixelorama_importer/issues/6) in [Technohacker/godot_pixelorama_importer](https://github.com/Technohacker/godot_pixelorama_importer)
+4. 💪 Opened PR [#6](https://github.com/Technohacker/godot_pixelorama_importer/pull/6) in [Technohacker/godot_pixelorama_importer](https://github.com/Technohacker/godot_pixelorama_importer)
+5. 🎉 Merged PR [#630](https://github.com/Orama-Interactive/Pixelorama/pull/630) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
