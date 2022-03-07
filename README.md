@@ -16,11 +16,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#554](https://github.com/Orama-Interactive/Pixelorama/pull/554) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🗣 Commented on [#554](https://github.com/Orama-Interactive/Pixelorama/issues/554) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🎉 Merged PR [#657](https://github.com/Orama-Interactive/Pixelorama/pull/657) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🎉 Merged PR [#648](https://github.com/Orama-Interactive/Pixelorama/pull/648) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 💪 Opened PR [#1](https://github.com/huskeee/godot-headless-mac/pull/1) in [huskeee/godot-headless-mac](https://github.com/huskeee/godot-headless-mac)
+1. 🗣 Commented on [#659](https://github.com/Orama-Interactive/Pixelorama/issues/659) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. ❗️ Closed issue [#659](https://github.com/Orama-Interactive/Pixelorama/issues/659) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. ❌ Closed PR [#554](https://github.com/Orama-Interactive/Pixelorama/pull/554) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🗣 Commented on [#554](https://github.com/Orama-Interactive/Pixelorama/issues/554) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🎉 Merged PR [#657](https://github.com/Orama-Interactive/Pixelorama/pull/657) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
