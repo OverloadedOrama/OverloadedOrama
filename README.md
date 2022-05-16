@@ -16,11 +16,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#700](https://github.com/Orama-Interactive/Pixelorama/issues/700) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🎉 Merged PR [#700](https://github.com/Orama-Interactive/Pixelorama/pull/700) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 2. 🗣 Commented on [#700](https://github.com/Orama-Interactive/Pixelorama/issues/700) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. ❗️ Closed issue [#701](https://github.com/Orama-Interactive/Pixelorama/issues/701) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🗣 Commented on [#701](https://github.com/Orama-Interactive/Pixelorama/issues/701) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 💪 Opened PR [#2](https://github.com/Nyctovios/Parkour-Masters/pull/2) in [Nyctovios/Parkour-Masters](https://github.com/Nyctovios/Parkour-Masters)
+3. 🗣 Commented on [#700](https://github.com/Orama-Interactive/Pixelorama/issues/700) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. ❗️ Closed issue [#701](https://github.com/Orama-Interactive/Pixelorama/issues/701) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🗣 Commented on [#701](https://github.com/Orama-Interactive/Pixelorama/issues/701) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
