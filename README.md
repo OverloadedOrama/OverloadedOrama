@@ -17,10 +17,10 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#18](https://github.com/flathub/com.orama_interactive.Pixelorama/issues/18) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-2. 💪 Opened PR [#18](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/18) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-3. 🎉 Merged PR [#1](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/1) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
-4. 💪 Opened PR [#1](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/1) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
-5. 🎉 Merged PR [#736](https://github.com/Orama-Interactive/Pixelorama/pull/736) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🗣 Commented on [#18](https://github.com/flathub/com.orama_interactive.Pixelorama/issues/18) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+3. 💪 Opened PR [#18](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/18) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+4. 🎉 Merged PR [#1](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/1) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
+5. 💪 Opened PR [#1](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/1) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
 <!--END_SECTION:activity-->
 
 <!--
