@@ -7,6 +7,8 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 - 🌱 I’m currently studying Computer Science at the University of Piraeus.
 - 😄 Pronouns: he/him
 
+[![My Skills](https://skillicons.dev/icons?i=godot,py,cpp,cs,git,linux,html)](https://skillicons.dev)
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=OverloadedOrama&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OverloadedOrama&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
