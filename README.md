@@ -6,6 +6,7 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 - 🔭 I’m currently working on [Pixelorama, a free an open source sprite editor](https://github.com/Orama-Interactive/Pixelorama), made entirely with the Godot Engine!
 - 🌱 I’m currently studying Computer Science at the University of Piraeus.
 - 😄 Pronouns: he/him
+- You can find me on <a rel="me" href="https://mastodon.social/@Overloaded">Mastodon</a>.
 
 [![My Skills](https://skillicons.dev/icons?i=godot,py,cpp,cs,git,linux,html)](https://skillicons.dev)
 
