@@ -21,11 +21,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#807](https://github.com/Orama-Interactive/Pixelorama/pull/807) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🎉 Merged PR [#3](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/3) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
-3. 🗣 Commented on [#805](https://github.com/Orama-Interactive/Pixelorama/issues/805) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🎉 Merged PR [#804](https://github.com/Orama-Interactive/Pixelorama/pull/804) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 🎉 Merged PR [#2](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/2) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
+1. 🎉 Merged PR [#808](https://github.com/Orama-Interactive/Pixelorama/pull/808) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🎉 Merged PR [#807](https://github.com/Orama-Interactive/Pixelorama/pull/807) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🎉 Merged PR [#3](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/3) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
+4. 🗣 Commented on [#805](https://github.com/Orama-Interactive/Pixelorama/issues/805) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🎉 Merged PR [#804](https://github.com/Orama-Interactive/Pixelorama/pull/804) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
