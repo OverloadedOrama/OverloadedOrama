@@ -21,11 +21,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72892](https://github.com/godotengine/godot/issues/72892) in [godotengine/godot](https://github.com/godotengine/godot)
-2. ❗️ Opened issue [#72892](https://github.com/godotengine/godot/issues/72892) in [godotengine/godot](https://github.com/godotengine/godot)
-3. 🎉 Merged PR [#1](https://github.com/Orama-Interactive/GGJ-2023/pull/1) in [Orama-Interactive/GGJ-2023](https://github.com/Orama-Interactive/GGJ-2023)
-4. 🎉 Merged PR [#2](https://github.com/Orama-Interactive/GGJ-2023/pull/2) in [Orama-Interactive/GGJ-2023](https://github.com/Orama-Interactive/GGJ-2023)
-5. 💪 Opened PR [#2](https://github.com/Orama-Interactive/GGJ-2023/pull/2) in [Orama-Interactive/GGJ-2023](https://github.com/Orama-Interactive/GGJ-2023)
+1. 💪 Opened PR [#72898](https://github.com/godotengine/godot/pull/72898) in [godotengine/godot](https://github.com/godotengine/godot)
+2. 🗣 Commented on [#72892](https://github.com/godotengine/godot/issues/72892) in [godotengine/godot](https://github.com/godotengine/godot)
+3. 🗣 Commented on [#72892](https://github.com/godotengine/godot/issues/72892) in [godotengine/godot](https://github.com/godotengine/godot)
+4. ❗️ Opened issue [#72892](https://github.com/godotengine/godot/issues/72892) in [godotengine/godot](https://github.com/godotengine/godot)
+5. 🎉 Merged PR [#1](https://github.com/Orama-Interactive/GGJ-2023/pull/1) in [Orama-Interactive/GGJ-2023](https://github.com/Orama-Interactive/GGJ-2023)
 <!--END_SECTION:activity-->
 
 <!--
