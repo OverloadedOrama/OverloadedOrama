@@ -21,11 +21,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/Orama-Interactive/The-roots-of-all-our-problems/pull/5) in [Orama-Interactive/The-roots-of-all-our-problems](https://github.com/Orama-Interactive/The-roots-of-all-our-problems)
-2. 🎉 Merged PR [#821](https://github.com/Orama-Interactive/Pixelorama/pull/821) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🎉 Merged PR [#8](https://github.com/Orama-Interactive/The-roots-of-all-our-problems/pull/8) in [Orama-Interactive/The-roots-of-all-our-problems](https://github.com/Orama-Interactive/The-roots-of-all-our-problems)
-4. 💪 Opened PR [#8](https://github.com/Orama-Interactive/The-roots-of-all-our-problems/pull/8) in [Orama-Interactive/The-roots-of-all-our-problems](https://github.com/Orama-Interactive/The-roots-of-all-our-problems)
-5. 🎉 Merged PR [#7](https://github.com/Orama-Interactive/The-roots-of-all-our-problems/pull/7) in [Orama-Interactive/The-roots-of-all-our-problems](https://github.com/Orama-Interactive/The-roots-of-all-our-problems)
+1. 🎉 Merged PR [#826](https://github.com/Orama-Interactive/Pixelorama/pull/826) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. ❌ Closed PR [#5](https://github.com/Orama-Interactive/The-roots-of-all-our-problems/pull/5) in [Orama-Interactive/The-roots-of-all-our-problems](https://github.com/Orama-Interactive/The-roots-of-all-our-problems)
+3. 🎉 Merged PR [#821](https://github.com/Orama-Interactive/Pixelorama/pull/821) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🎉 Merged PR [#8](https://github.com/Orama-Interactive/The-roots-of-all-our-problems/pull/8) in [Orama-Interactive/The-roots-of-all-our-problems](https://github.com/Orama-Interactive/The-roots-of-all-our-problems)
+5. 💪 Opened PR [#8](https://github.com/Orama-Interactive/The-roots-of-all-our-problems/pull/8) in [Orama-Interactive/The-roots-of-all-our-problems](https://github.com/Orama-Interactive/The-roots-of-all-our-problems)
 <!--END_SECTION:activity-->
 
 <!--
