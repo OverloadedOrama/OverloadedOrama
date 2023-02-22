@@ -21,11 +21,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#827](https://github.com/Orama-Interactive/Pixelorama/pull/827) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🎉 Merged PR [#826](https://github.com/Orama-Interactive/Pixelorama/pull/826) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. ❌ Closed PR [#5](https://github.com/Orama-Interactive/The-roots-of-all-our-problems/pull/5) in [Orama-Interactive/The-roots-of-all-our-problems](https://github.com/Orama-Interactive/The-roots-of-all-our-problems)
-4. 🎉 Merged PR [#821](https://github.com/Orama-Interactive/Pixelorama/pull/821) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 🎉 Merged PR [#8](https://github.com/Orama-Interactive/The-roots-of-all-our-problems/pull/8) in [Orama-Interactive/The-roots-of-all-our-problems](https://github.com/Orama-Interactive/The-roots-of-all-our-problems)
+1. 🎉 Merged PR [#9](https://github.com/Orama-Interactive/The-roots-of-all-our-problems/pull/9) in [Orama-Interactive/The-roots-of-all-our-problems](https://github.com/Orama-Interactive/The-roots-of-all-our-problems)
+2. 🎉 Merged PR [#827](https://github.com/Orama-Interactive/Pixelorama/pull/827) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🎉 Merged PR [#826](https://github.com/Orama-Interactive/Pixelorama/pull/826) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. ❌ Closed PR [#5](https://github.com/Orama-Interactive/The-roots-of-all-our-problems/pull/5) in [Orama-Interactive/The-roots-of-all-our-problems](https://github.com/Orama-Interactive/The-roots-of-all-our-problems)
+5. 🎉 Merged PR [#821](https://github.com/Orama-Interactive/Pixelorama/pull/821) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
