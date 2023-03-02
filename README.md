@@ -21,11 +21,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#828](https://github.com/Orama-Interactive/Pixelorama/pull/828) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🎉 Merged PR [#53](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/53) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
-3. 🎉 Merged PR [#10](https://github.com/Orama-Interactive/The-roots-of-all-our-problems/pull/10) in [Orama-Interactive/The-roots-of-all-our-problems](https://github.com/Orama-Interactive/The-roots-of-all-our-problems)
-4. 💪 Opened PR [#10](https://github.com/Orama-Interactive/The-roots-of-all-our-problems/pull/10) in [Orama-Interactive/The-roots-of-all-our-problems](https://github.com/Orama-Interactive/The-roots-of-all-our-problems)
-5. 🎉 Merged PR [#9](https://github.com/Orama-Interactive/The-roots-of-all-our-problems/pull/9) in [Orama-Interactive/The-roots-of-all-our-problems](https://github.com/Orama-Interactive/The-roots-of-all-our-problems)
+1. 🎉 Merged PR [#9](https://github.com/Orama-Interactive/Keychain/pull/9) in [Orama-Interactive/Keychain](https://github.com/Orama-Interactive/Keychain)
+2. 🗣 Commented on [#9](https://github.com/Orama-Interactive/Keychain/issues/9) in [Orama-Interactive/Keychain](https://github.com/Orama-Interactive/Keychain)
+3. 🗣 Commented on [#8](https://github.com/Orama-Interactive/Keychain/issues/8) in [Orama-Interactive/Keychain](https://github.com/Orama-Interactive/Keychain)
+4. ❗️ Closed issue [#8](https://github.com/Orama-Interactive/Keychain/issues/8) in [Orama-Interactive/Keychain](https://github.com/Orama-Interactive/Keychain)
+5. 💪 Opened PR [#9](https://github.com/Orama-Interactive/Keychain/pull/9) in [Orama-Interactive/Keychain](https://github.com/Orama-Interactive/Keychain)
 <!--END_SECTION:activity-->
 
 <!--
