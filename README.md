@@ -21,7 +21,7 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#833](https://github.com/Orama-Interactive/Pixelorama/pull/833) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🎉 Merged PR [#55](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/55) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
 2. 🎉 Merged PR [#830](https://github.com/Orama-Interactive/Pixelorama/pull/830) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 3. 🎉 Merged PR [#822](https://github.com/Orama-Interactive/Pixelorama/pull/822) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 4. 🎉 Merged PR [#819](https://github.com/Orama-Interactive/Pixelorama/pull/819) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
