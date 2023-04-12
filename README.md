@@ -21,11 +21,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/57) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
-2. 🎉 Merged PR [#56](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/56) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
-3. 💪 Opened PR [#6](https://github.com/huskeee/godot-headless-mac/pull/6) in [huskeee/godot-headless-mac](https://github.com/huskeee/godot-headless-mac)
-4. 💪 Opened PR [#841](https://github.com/Orama-Interactive/Pixelorama/pull/841) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 🎉 Merged PR [#829](https://github.com/Orama-Interactive/Pixelorama/pull/829) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🎉 Merged PR [#844](https://github.com/Orama-Interactive/Pixelorama/pull/844) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🎉 Merged PR [#57](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/57) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+3. 🎉 Merged PR [#56](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/56) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+4. 💪 Opened PR [#6](https://github.com/huskeee/godot-headless-mac/pull/6) in [huskeee/godot-headless-mac](https://github.com/huskeee/godot-headless-mac)
+5. 💪 Opened PR [#841](https://github.com/Orama-Interactive/Pixelorama/pull/841) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
