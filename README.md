@@ -9,13 +9,6 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 - 🐘 You can find me on <a rel="me" href="https://mastodon.social/@Overloaded">Mastodon</a>.
 
 [![My Skills](https://skillicons.dev/icons?i=godot,py,cpp,cs,git,linux,html)](https://skillicons.dev)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=OverloadedOrama&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OverloadedOrama&count_private=true&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=OverloadedOrama&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
 ---
 
 ### :zap: Recent Activity
