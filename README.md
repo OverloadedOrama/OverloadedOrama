@@ -4,7 +4,6 @@ I am a co-founder and lead developer of [Orama Interactive](https://www.orama-in
 One of the reasons I co-founded Orama Interactive is because I am a thinker and a dreamer, and I wanted a way to get my thoughts and creativity out to the world, and to make my dreams a reality. I also think that one of the best, if not the best, way to change and improve this world is through art and technology. And, well, games are a combination of both. So another reason I chose this path is to attempt to make this world a better place, from making content that is both fun and educational, to influence people's ways of thinking and promote open-mindedness. I hope you'll join me in this journey!
 
 - 🔭 I’m currently working on [Pixelorama, a free an open source sprite editor](https://github.com/Orama-Interactive/Pixelorama), made entirely with the Godot Engine!
-- 🌱 I’m currently studying Computer Science at the University of Piraeus.
 - 😄 Pronouns: he/him
 - 🐘 You can find me on <a rel="me" href="https://mastodon.social/@Overloaded">Mastodon</a>.
 
