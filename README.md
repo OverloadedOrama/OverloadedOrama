@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#856](https://github.com/Orama-Interactive/Pixelorama/pull/856) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. ❗️ Closed issue [#757](https://github.com/Orama-Interactive/Pixelorama/issues/757) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🎉 Merged PR [#857](https://github.com/Orama-Interactive/Pixelorama/pull/857) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🗣 Commented on [#21](https://github.com/gilzoide/godot-dockable-container/issues/21) in [gilzoide/godot-dockable-container](https://github.com/gilzoide/godot-dockable-container)
-5. 🎉 Merged PR [#855](https://github.com/Orama-Interactive/Pixelorama/pull/855) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🎉 Merged PR [#863](https://github.com/Orama-Interactive/Pixelorama/pull/863) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🎉 Merged PR [#858](https://github.com/Orama-Interactive/Pixelorama/pull/858) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. ❗️ Closed issue [#717](https://github.com/Orama-Interactive/Pixelorama/issues/717) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🎉 Merged PR [#860](https://github.com/Orama-Interactive/Pixelorama/pull/860) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🎉 Merged PR [#856](https://github.com/Orama-Interactive/Pixelorama/pull/856) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
