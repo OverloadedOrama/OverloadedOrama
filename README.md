@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#809](https://github.com/Orama-Interactive/Pixelorama/issues/809) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🗣 Commented on [#809](https://github.com/Orama-Interactive/Pixelorama/issues/809#issuecomment-1676001497) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🎉 Merged PR [#22](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/22) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-4. 💪 Opened PR [#22](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/22) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-5. 🎉 Merged PR [#895](https://github.com/Orama-Interactive/Pixelorama/pull/895) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🎉 Merged PR [#3](https://github.com/Orama-Interactive/Orama-Interactive.github.io/pull/3) in [Orama-Interactive/Orama-Interactive.github.io](https://github.com/Orama-Interactive/Orama-Interactive.github.io)
+2. 🔒 Closed issue [#809](https://github.com/Orama-Interactive/Pixelorama/issues/809) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🗣 Commented on [#809](https://github.com/Orama-Interactive/Pixelorama/issues/809#issuecomment-1676001497) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🎉 Merged PR [#22](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/22) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+5. 💪 Opened PR [#22](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/22) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
