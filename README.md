@@ -13,10 +13,10 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#961](https://github.com/Orama-Interactive/Pixelorama/pull/961#issuecomment-1869844873) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🎉 Merged PR [#966](https://github.com/Orama-Interactive/Pixelorama/pull/966) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🗣 Commented on [#966](https://github.com/Orama-Interactive/Pixelorama/pull/966#issuecomment-1868362726) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 💪 Opened PR [#967](https://github.com/Orama-Interactive/Pixelorama/pull/967) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. ❗ Opened issue [#1869](https://github.com/thorvg/thorvg/issues/1869) in [thorvg/thorvg](https://github.com/thorvg/thorvg)
+2. 🗣 Commented on [#961](https://github.com/Orama-Interactive/Pixelorama/pull/961#issuecomment-1869844873) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🎉 Merged PR [#966](https://github.com/Orama-Interactive/Pixelorama/pull/966) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🗣 Commented on [#966](https://github.com/Orama-Interactive/Pixelorama/pull/966#issuecomment-1868362726) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 5. 🎉 Merged PR [#963](https://github.com/Orama-Interactive/Pixelorama/pull/963) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
