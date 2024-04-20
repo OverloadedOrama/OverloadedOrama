@@ -13,10 +13,10 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0](https://github.com/OverloadedOrama/Lospec-Palette-Importer/releases/tag/v1.0) in [OverloadedOrama/Lospec-Palette-Importer](https://github.com/OverloadedOrama/Lospec-Palette-Importer)
-2. 🎉 Merged PR [#26](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/26) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-3. 💪 Opened PR [#26](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/26) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-4. 🎉 Merged PR [#67](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/67) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+1. 🚀 Published release [v1.0](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension/releases/tag/v1.0) in [OverloadedOrama/OpenDyslexic-Pixelorama-Extension](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension)
+2. 🚀 Published release [v1.0](https://github.com/OverloadedOrama/Lospec-Palette-Importer/releases/tag/v1.0) in [OverloadedOrama/Lospec-Palette-Importer](https://github.com/OverloadedOrama/Lospec-Palette-Importer)
+3. 🎉 Merged PR [#26](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/26) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+4. 💪 Opened PR [#26](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/26) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
 5. 🗣 Commented on [#990](https://github.com/Orama-Interactive/Pixelorama/issues/990#issuecomment-2019170353) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
