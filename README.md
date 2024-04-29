@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#996](https://github.com/Orama-Interactive/Pixelorama/pull/996) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🎉 Merged PR [#76](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/76) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
-3. 🚀 Published release [v1.0](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension/releases/tag/v1.0) in [OverloadedOrama/OpenDyslexic-Pixelorama-Extension](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension)
-4. 🚀 Published release [v1.0](https://github.com/OverloadedOrama/Lospec-Palette-Importer/releases/tag/v1.0) in [OverloadedOrama/Lospec-Palette-Importer](https://github.com/OverloadedOrama/Lospec-Palette-Importer)
-5. 🎉 Merged PR [#26](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/26) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+1. 🔒 Closed issue [#69](https://github.com/Orama-Interactive/Pixelorama-Docs/issues/69) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+2. 🎉 Merged PR [#996](https://github.com/Orama-Interactive/Pixelorama/pull/996) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🎉 Merged PR [#76](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/76) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+4. 🚀 Published release [v1.0](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension/releases/tag/v1.0) in [OverloadedOrama/OpenDyslexic-Pixelorama-Extension](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension)
+5. 🚀 Published release [v1.0](https://github.com/OverloadedOrama/Lospec-Palette-Importer/releases/tag/v1.0) in [OverloadedOrama/Lospec-Palette-Importer](https://github.com/OverloadedOrama/Lospec-Palette-Importer)
 <!--END_SECTION:activity-->
 
 <!--
