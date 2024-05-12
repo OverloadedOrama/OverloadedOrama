@@ -13,8 +13,8 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1018](https://github.com/Orama-Interactive/Pixelorama/pull/1018) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🗣 Commented on [#1015](https://github.com/Orama-Interactive/Pixelorama/issues/1015#issuecomment-2094142676) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🎉 Merged PR [#1](https://github.com/OverloadedOrama/Lospec-Palette-Importer/pull/1) in [OverloadedOrama/Lospec-Palette-Importer](https://github.com/OverloadedOrama/Lospec-Palette-Importer)
+2. 🎉 Merged PR [#1018](https://github.com/Orama-Interactive/Pixelorama/pull/1018) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 3. 🔒 Closed issue [#1015](https://github.com/Orama-Interactive/Pixelorama/issues/1015) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 4. 🎉 Merged PR [#1013](https://github.com/Orama-Interactive/Pixelorama/pull/1013) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 5. 🎉 Merged PR [#1012](https://github.com/Orama-Interactive/Pixelorama/pull/1012) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
