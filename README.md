@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/78) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
-2. 💪 Opened PR [#1027](https://github.com/Orama-Interactive/Pixelorama/pull/1027) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 💪 Opened PR [#77](https://github.com/godotengine/godot-benchmarks/pull/77) in [godotengine/godot-benchmarks](https://github.com/godotengine/godot-benchmarks)
-4. 🗣 Commented on [#36](https://github.com/godotengine/godot-benchmarks/issues/36#issuecomment-2179090081) in [godotengine/godot-benchmarks](https://github.com/godotengine/godot-benchmarks)
-5. 💪 Opened PR [#9514](https://github.com/godotengine/godot-docs/pull/9514) in [godotengine/godot-docs](https://github.com/godotengine/godot-docs)
+1. 💪 Opened PR [#78](https://github.com/godotengine/godot-benchmarks/pull/78) in [godotengine/godot-benchmarks](https://github.com/godotengine/godot-benchmarks)
+2. 🎉 Merged PR [#78](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/78) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+3. 💪 Opened PR [#1027](https://github.com/Orama-Interactive/Pixelorama/pull/1027) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 💪 Opened PR [#77](https://github.com/godotengine/godot-benchmarks/pull/77) in [godotengine/godot-benchmarks](https://github.com/godotengine/godot-benchmarks)
+5. 🗣 Commented on [#36](https://github.com/godotengine/godot-benchmarks/issues/36#issuecomment-2179090081) in [godotengine/godot-benchmarks](https://github.com/godotengine/godot-benchmarks)
 <!--END_SECTION:activity-->
 
 <!--
