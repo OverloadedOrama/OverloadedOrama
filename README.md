@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2499](https://github.com/thorvg/thorvg/pull/2499#issuecomment-2199595553) in [thorvg/thorvg](https://github.com/thorvg/thorvg)
-2. 🗣 Commented on [#85](https://github.com/godotengine/godot-benchmarks/pull/85#issuecomment-2198793101) in [godotengine/godot-benchmarks](https://github.com/godotengine/godot-benchmarks)
-3. 💪 Opened PR [#86](https://github.com/godotengine/godot-benchmarks/pull/86) in [godotengine/godot-benchmarks](https://github.com/godotengine/godot-benchmarks)
-4. 🔒 Closed issue [#1029](https://github.com/Orama-Interactive/Pixelorama/issues/1029) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 💪 Opened PR [#2499](https://github.com/thorvg/thorvg/pull/2499) in [thorvg/thorvg](https://github.com/thorvg/thorvg)
+1. 🚀 Published release [v1.0](https://github.com/Orama-Interactive/VoxeloramaExtension/releases/tag/1.0) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
+2. 🗣 Commented on [#2499](https://github.com/thorvg/thorvg/pull/2499#issuecomment-2199595553) in [thorvg/thorvg](https://github.com/thorvg/thorvg)
+3. 🗣 Commented on [#85](https://github.com/godotengine/godot-benchmarks/pull/85#issuecomment-2198793101) in [godotengine/godot-benchmarks](https://github.com/godotengine/godot-benchmarks)
+4. 💪 Opened PR [#86](https://github.com/godotengine/godot-benchmarks/pull/86) in [godotengine/godot-benchmarks](https://github.com/godotengine/godot-benchmarks)
+5. 🔒 Closed issue [#1029](https://github.com/Orama-Interactive/Pixelorama/issues/1029) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
