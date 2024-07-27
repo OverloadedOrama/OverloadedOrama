@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1047](https://github.com/Orama-Interactive/Pixelorama/pull/1047) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🎉 Merged PR [#1](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/1) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-3. 🗣 Commented on [#40](https://github.com/flathub/org.godotengine.godot.BaseApp/pull/40#issuecomment-2252903068) in [flathub/org.godotengine.godot.BaseApp](https://github.com/flathub/org.godotengine.godot.BaseApp)
-4. 🎉 Merged PR [#1042](https://github.com/Orama-Interactive/Pixelorama/pull/1042) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 🎉 Merged PR [#1040](https://github.com/Orama-Interactive/Pixelorama/pull/1040) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🎉 Merged PR [#1049](https://github.com/Orama-Interactive/Pixelorama/pull/1049) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🎉 Merged PR [#1047](https://github.com/Orama-Interactive/Pixelorama/pull/1047) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🎉 Merged PR [#1](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/1) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+4. 🗣 Commented on [#40](https://github.com/flathub/org.godotengine.godot.BaseApp/pull/40#issuecomment-2252903068) in [flathub/org.godotengine.godot.BaseApp](https://github.com/flathub/org.godotengine.godot.BaseApp)
+5. 🎉 Merged PR [#1042](https://github.com/Orama-Interactive/Pixelorama/pull/1042) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
