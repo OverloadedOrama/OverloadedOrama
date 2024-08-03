@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1054](https://github.com/Orama-Interactive/Pixelorama/issues/1054) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🗣 Commented on [#1065](https://github.com/Orama-Interactive/Pixelorama/issues/1065#issuecomment-2267076590) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🎉 Merged PR [#8](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/8) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
-4. 🎉 Merged PR [#3](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/3) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-5. 🎉 Merged PR [#7](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/7) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
+1. 🗣 Commented on [#1066](https://github.com/Orama-Interactive/Pixelorama/issues/1066#issuecomment-2267143254) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🔒 Closed issue [#1054](https://github.com/Orama-Interactive/Pixelorama/issues/1054) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🗣 Commented on [#1065](https://github.com/Orama-Interactive/Pixelorama/issues/1065#issuecomment-2267076590) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🎉 Merged PR [#8](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/8) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
+5. 🎉 Merged PR [#3](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/3) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
 <!--END_SECTION:activity-->
 
 <!--
