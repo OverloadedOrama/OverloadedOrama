@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.1](https://github.com/OverloadedOrama/Lospec-Palette-Importer/releases/tag/v1.1.1) in [OverloadedOrama/Lospec-Palette-Importer](https://github.com/OverloadedOrama/Lospec-Palette-Importer)
-2. 🗣 Commented on [#39](https://github.com/flathub/org.godotengine.godot.BaseApp/issues/39#issuecomment-2296493245) in [flathub/org.godotengine.godot.BaseApp](https://github.com/flathub/org.godotengine.godot.BaseApp)
-3. 🗣 Commented on [#1075](https://github.com/Orama-Interactive/Pixelorama/pull/1075#issuecomment-2294369200) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🔒 Closed issue [#1058](https://github.com/Orama-Interactive/Pixelorama/issues/1058) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 🎉 Merged PR [#1078](https://github.com/Orama-Interactive/Pixelorama/pull/1078) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🚀 Published release [v1.2](https://github.com/OverloadedOrama/Lospec-Palette-Importer/releases/tag/v1.2) in [OverloadedOrama/Lospec-Palette-Importer](https://github.com/OverloadedOrama/Lospec-Palette-Importer)
+2. 🚀 Published release [v1.1.1](https://github.com/OverloadedOrama/Lospec-Palette-Importer/releases/tag/v1.1.1) in [OverloadedOrama/Lospec-Palette-Importer](https://github.com/OverloadedOrama/Lospec-Palette-Importer)
+3. 🗣 Commented on [#39](https://github.com/flathub/org.godotengine.godot.BaseApp/issues/39#issuecomment-2296493245) in [flathub/org.godotengine.godot.BaseApp](https://github.com/flathub/org.godotengine.godot.BaseApp)
+4. 🗣 Commented on [#1075](https://github.com/Orama-Interactive/Pixelorama/pull/1075#issuecomment-2294369200) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🔒 Closed issue [#1058](https://github.com/Orama-Interactive/Pixelorama/issues/1058) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
