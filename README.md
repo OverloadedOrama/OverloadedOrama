@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/5) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-2. 🗣 Commented on [#148](https://github.com/abarichello/godot-ci/issues/148#issuecomment-2305578869) in [abarichello/godot-ci](https://github.com/abarichello/godot-ci)
-3. 🗣 Commented on [#149](https://github.com/abarichello/godot-ci/pull/149#issuecomment-2305577202) in [abarichello/godot-ci](https://github.com/abarichello/godot-ci)
-4. 🎉 Merged PR [#4](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/4) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-5. ❗ Opened issue [#148](https://github.com/abarichello/godot-ci/issues/148) in [abarichello/godot-ci](https://github.com/abarichello/godot-ci)
+1. 🎉 Merged PR [#6](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/6) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+2. 🎉 Merged PR [#5](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/5) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+3. 🗣 Commented on [#148](https://github.com/abarichello/godot-ci/issues/148#issuecomment-2305578869) in [abarichello/godot-ci](https://github.com/abarichello/godot-ci)
+4. 🗣 Commented on [#149](https://github.com/abarichello/godot-ci/pull/149#issuecomment-2305577202) in [abarichello/godot-ci](https://github.com/abarichello/godot-ci)
+5. 🎉 Merged PR [#4](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/4) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
 <!--END_SECTION:activity-->
 
 <!--
