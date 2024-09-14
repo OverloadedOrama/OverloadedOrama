@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/30) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-2. 💪 Opened PR [#30](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/30) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-3. 🎉 Merged PR [#1083](https://github.com/Orama-Interactive/Pixelorama/pull/1083) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🗣 Commented on [#349](https://github.com/Orama-Interactive/Pixelorama/issues/349#issuecomment-2347295009) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 🗣 Commented on [#1102](https://github.com/Orama-Interactive/Pixelorama/issues/1102#issuecomment-2343700370) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 💪 Opened PR [#1106](https://github.com/Orama-Interactive/Pixelorama/pull/1106) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🎉 Merged PR [#30](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/30) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+3. 💪 Opened PR [#30](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/30) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+4. 🎉 Merged PR [#1083](https://github.com/Orama-Interactive/Pixelorama/pull/1083) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🗣 Commented on [#349](https://github.com/Orama-Interactive/Pixelorama/issues/349#issuecomment-2347295009) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
