@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1106](https://github.com/Orama-Interactive/Pixelorama/pull/1106) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🎉 Merged PR [#1125](https://github.com/Orama-Interactive/Pixelorama/pull/1125) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🎉 Merged PR [#1116](https://github.com/Orama-Interactive/Pixelorama/pull/1116) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🚀 Published release [Version v1.1](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension/releases/tag/v1.1) in [OverloadedOrama/OpenDyslexic-Pixelorama-Extension](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension)
-5. 🎉 Merged PR [#1105](https://github.com/Orama-Interactive/Pixelorama/pull/1105) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 💪 Opened PR [#32](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/32) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+2. 🎉 Merged PR [#1106](https://github.com/Orama-Interactive/Pixelorama/pull/1106) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🎉 Merged PR [#1125](https://github.com/Orama-Interactive/Pixelorama/pull/1125) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🎉 Merged PR [#1116](https://github.com/Orama-Interactive/Pixelorama/pull/1116) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🚀 Published release [Version v1.1](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension/releases/tag/v1.1) in [OverloadedOrama/OpenDyslexic-Pixelorama-Extension](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension)
 <!--END_SECTION:activity-->
 
 <!--
