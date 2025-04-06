@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1212](https://github.com/Orama-Interactive/Pixelorama/issues/1212#issuecomment-2781092743) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🔒 Closed issue [#1212](https://github.com/Orama-Interactive/Pixelorama/issues/1212) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🎉 Merged PR [#113](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/113) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
-4. 🎉 Merged PR [#18](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/18) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-5. 🎉 Merged PR [#17](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/17) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+1. 🗣 Commented on [#803](https://github.com/Orama-Interactive/Pixelorama/issues/803#issuecomment-2781127317) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🗣 Commented on [#1212](https://github.com/Orama-Interactive/Pixelorama/issues/1212#issuecomment-2781092743) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🔒 Closed issue [#1212](https://github.com/Orama-Interactive/Pixelorama/issues/1212) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🎉 Merged PR [#113](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/113) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+5. 🎉 Merged PR [#18](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/18) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
 <!--END_SECTION:activity-->
 
 <!--
