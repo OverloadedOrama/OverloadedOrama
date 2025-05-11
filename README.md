@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1238](https://github.com/Orama-Interactive/Pixelorama/issues/1238#issuecomment-2869036945) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🔒 Closed issue [#1238](https://github.com/Orama-Interactive/Pixelorama/issues/1238) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🗣 Commented on [#1237](https://github.com/Orama-Interactive/Pixelorama/issues/1237#issuecomment-2866306697) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🗣 Commented on [#1232](https://github.com/Orama-Interactive/Pixelorama/issues/1232#issuecomment-2862427469) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 🔒 Closed issue [#1232](https://github.com/Orama-Interactive/Pixelorama/issues/1232) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🎉 Merged PR [#112](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/112) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+2. 🗣 Commented on [#1238](https://github.com/Orama-Interactive/Pixelorama/issues/1238#issuecomment-2869036945) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🔒 Closed issue [#1238](https://github.com/Orama-Interactive/Pixelorama/issues/1238) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🗣 Commented on [#1237](https://github.com/Orama-Interactive/Pixelorama/issues/1237#issuecomment-2866306697) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🗣 Commented on [#1232](https://github.com/Orama-Interactive/Pixelorama/issues/1232#issuecomment-2862427469) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
