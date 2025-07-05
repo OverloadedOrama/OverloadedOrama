@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1296](https://github.com/Orama-Interactive/Pixelorama/pull/1296) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🗣 Commented on [#1293](https://github.com/Orama-Interactive/Pixelorama/issues/1293#issuecomment-3019077595) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🔒 Closed issue [#1293](https://github.com/Orama-Interactive/Pixelorama/issues/1293) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🎉 Merged PR [#21](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/21) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-5. 🎉 Merged PR [#36](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/36) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+1. 🎉 Merged PR [#1281](https://github.com/Orama-Interactive/Pixelorama/pull/1281) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 💪 Opened PR [#1296](https://github.com/Orama-Interactive/Pixelorama/pull/1296) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🗣 Commented on [#1293](https://github.com/Orama-Interactive/Pixelorama/issues/1293#issuecomment-3019077595) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🔒 Closed issue [#1293](https://github.com/Orama-Interactive/Pixelorama/issues/1293) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🎉 Merged PR [#21](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/21) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
 <!--END_SECTION:activity-->
 
 <!--
