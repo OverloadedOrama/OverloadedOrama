@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/23) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-2. 🗣 Commented on [#1334](https://github.com/Orama-Interactive/Pixelorama/issues/1334#issuecomment-3221957230) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🔒 Closed issue [#1334](https://github.com/Orama-Interactive/Pixelorama/issues/1334) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🗣 Commented on [#1303](https://github.com/Orama-Interactive/Pixelorama/pull/1303#issuecomment-3221538950) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 🎉 Merged PR [#1311](https://github.com/Orama-Interactive/Pixelorama/pull/1311) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🎉 Merged PR [#1335](https://github.com/Orama-Interactive/Pixelorama/pull/1335) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🎉 Merged PR [#23](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/23) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+3. 🗣 Commented on [#1334](https://github.com/Orama-Interactive/Pixelorama/issues/1334#issuecomment-3221957230) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🔒 Closed issue [#1334](https://github.com/Orama-Interactive/Pixelorama/issues/1334) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🗣 Commented on [#1303](https://github.com/Orama-Interactive/Pixelorama/pull/1303#issuecomment-3221538950) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
