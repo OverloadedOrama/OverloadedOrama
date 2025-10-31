@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1368](https://github.com/Orama-Interactive/Pixelorama/issues/1368#issuecomment-3453913708) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🔒 Closed issue [#1368](https://github.com/Orama-Interactive/Pixelorama/issues/1368) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 💪 Opened PR [#54](undefined) in [flathub/org.godotengine.godot.BaseApp](https://github.com/flathub/org.godotengine.godot.BaseApp)
-4. 💪 Opened PR [#122](undefined) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
-5. 🔒 Closed issue [#84](https://github.com/Orama-Interactive/Pixelorama-Docs/issues/84) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+1. 🚀 Published release [v1.2](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension/releases/tag/v1.2) in [OverloadedOrama/OpenDyslexic-Pixelorama-Extension](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension)
+2. 🚀 Published release [v1.2](https://github.com/Orama-Interactive/VoxeloramaExtension/releases/tag/v1.2) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
+3. 🚀 Published release [v1.3](https://github.com/OverloadedOrama/Lospec-Palette-Importer/releases/tag/v1.3) in [OverloadedOrama/Lospec-Palette-Importer](https://github.com/OverloadedOrama/Lospec-Palette-Importer)
+4. 🗣 Commented on [#1368](https://github.com/Orama-Interactive/Pixelorama/issues/1368#issuecomment-3453913708) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🔒 Closed issue [#1368](https://github.com/Orama-Interactive/Pixelorama/issues/1368) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
