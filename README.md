@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#41](undefined) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-2. 💪 Opened PR [#41](undefined) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-3. 🚀 Published release [v1.2](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension/releases/tag/v1.2) in [OverloadedOrama/OpenDyslexic-Pixelorama-Extension](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension)
-4. 🚀 Published release [v1.2](https://github.com/Orama-Interactive/VoxeloramaExtension/releases/tag/v1.2) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
-5. 🚀 Published release [v1.3](https://github.com/OverloadedOrama/Lospec-Palette-Importer/releases/tag/v1.3) in [OverloadedOrama/Lospec-Palette-Importer](https://github.com/OverloadedOrama/Lospec-Palette-Importer)
+1. 💪 Opened PR [#2](undefined) in [FoolLin/Godot-Applinks-Android-Plugin](https://github.com/FoolLin/Godot-Applinks-Android-Plugin)
+2. ❌ Labeled PR [#41](undefined) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+3. 💪 Opened PR [#41](undefined) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+4. 🚀 Published release [v1.2](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension/releases/tag/v1.2) in [OverloadedOrama/OpenDyslexic-Pixelorama-Extension](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension)
+5. 🚀 Published release [v1.2](https://github.com/Orama-Interactive/VoxeloramaExtension/releases/tag/v1.2) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
 <!--END_SECTION:activity-->
 
 <!--
