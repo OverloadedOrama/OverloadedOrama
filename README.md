@@ -13,10 +13,10 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](undefined) in [jegor377/godot-gdgifexporter](https://github.com/jegor377/godot-gdgifexporter)
-2. 🔒 Closed issue [#1356](https://github.com/Orama-Interactive/Pixelorama/issues/1356) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🗣 Commented on [#1356](https://github.com/Orama-Interactive/Pixelorama/issues/1356#issuecomment-3487383885) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 💪 Opened PR [#1370](undefined) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🔒 Closed issue [#6](https://github.com/Orama-Interactive/Keychain/issues/6) in [Orama-Interactive/Keychain](https://github.com/Orama-Interactive/Keychain)
+2. 💪 Opened PR [#25](undefined) in [jegor377/godot-gdgifexporter](https://github.com/jegor377/godot-gdgifexporter)
+3. 🔒 Closed issue [#1356](https://github.com/Orama-Interactive/Pixelorama/issues/1356) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🗣 Commented on [#1356](https://github.com/Orama-Interactive/Pixelorama/issues/1356#issuecomment-3487383885) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 5. 🚀 Published release [v1.2](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension/releases/tag/v1.2) in [OverloadedOrama/OpenDyslexic-Pixelorama-Extension](https://github.com/OverloadedOrama/OpenDyslexic-Pixelorama-Extension)
 <!--END_SECTION:activity-->
 
