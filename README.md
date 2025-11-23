@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/Orama-Interactive/Keychain/pull/11#issuecomment-3535002759) in [Orama-Interactive/Keychain](https://github.com/Orama-Interactive/Keychain)
-2. ❌ Closed PR [#11](undefined) in [Orama-Interactive/Keychain](https://github.com/Orama-Interactive/Keychain)
-3. 🔒 Closed issue [#6](https://github.com/Orama-Interactive/Keychain/issues/6) in [Orama-Interactive/Keychain](https://github.com/Orama-Interactive/Keychain)
-4. 💪 Opened PR [#25](undefined) in [jegor377/godot-gdgifexporter](https://github.com/jegor377/godot-gdgifexporter)
-5. 🔒 Closed issue [#1356](https://github.com/Orama-Interactive/Pixelorama/issues/1356) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🗣 Commented on [#1379](https://github.com/Orama-Interactive/Pixelorama/issues/1379#issuecomment-3568383095) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🗣 Commented on [#1377](https://github.com/Orama-Interactive/Pixelorama/issues/1377#issuecomment-3568382469) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🔒 Closed issue [#1379](https://github.com/Orama-Interactive/Pixelorama/issues/1379) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🔒 Closed issue [#1377](https://github.com/Orama-Interactive/Pixelorama/issues/1377) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🗣 Commented on [#11](https://github.com/Orama-Interactive/Keychain/pull/11#issuecomment-3535002759) in [Orama-Interactive/Keychain](https://github.com/Orama-Interactive/Keychain)
 <!--END_SECTION:activity-->
 
 <!--
