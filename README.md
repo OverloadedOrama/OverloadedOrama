@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#1313](https://github.com/Orama-Interactive/Pixelorama/issues/1313) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. ℹ️ Labeled issue [#1313](https://github.com/Orama-Interactive/Pixelorama/issues/1313) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 2. 🔒 Closed issue [#1241](https://github.com/Orama-Interactive/Pixelorama/issues/1241) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 3. 🗣 Commented on [#1241](https://github.com/Orama-Interactive/Pixelorama/issues/1241#issuecomment-3702317168) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4.  Labeled issue [#1409](https://github.com/Orama-Interactive/Pixelorama/issues/1409) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5.  Labeled issue [#1398](https://github.com/Orama-Interactive/Pixelorama/issues/1398) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. ℹ️ Labeled issue [#1409](https://github.com/Orama-Interactive/Pixelorama/issues/1409) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. ℹ️ Labeled issue [#1398](https://github.com/Orama-Interactive/Pixelorama/issues/1398) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
