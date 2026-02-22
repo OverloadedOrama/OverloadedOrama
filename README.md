@@ -13,9 +13,9 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14254](https://github.com/godotengine/godot-proposals/issues/14254) in [godotengine/godot-proposals](https://github.com/godotengine/godot-proposals)
-2. 🔒 Closed issue [#1437](https://github.com/Orama-Interactive/Pixelorama/issues/1437) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🔒 Closed issue [#1421](https://github.com/Orama-Interactive/Pixelorama/issues/1421) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🗣 Commented on [#1431](https://github.com/Orama-Interactive/Pixelorama/pull/1431#issuecomment-3939790262) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. ❌ Closed PR [#1431](https://github.com/Orama-Interactive/Pixelorama/pull/1431) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. ❗ Opened issue [#14254](https://github.com/godotengine/godot-proposals/issues/14254) in [godotengine/godot-proposals](https://github.com/godotengine/godot-proposals)
 4. 🔒 Closed issue [#1433](https://github.com/Orama-Interactive/Pixelorama/issues/1433) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 5. 🗣 Commented on [#1433](https://github.com/Orama-Interactive/Pixelorama/issues/1433#issuecomment-3811962831) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
