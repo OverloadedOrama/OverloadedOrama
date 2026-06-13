@@ -13,8 +13,8 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1515](https://github.com/Orama-Interactive/Pixelorama/pull/1515) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 💪 Opened PR [#1515](https://github.com/Orama-Interactive/Pixelorama/pull/1515) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🗣 Commented on [#1525](https://github.com/Orama-Interactive/Pixelorama/issues/1525#issuecomment-4699944598) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🔒 Closed issue [#1525](https://github.com/Orama-Interactive/Pixelorama/issues/1525) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 3. 🔒 Closed issue [#2](https://github.com/OverloadedOrama/godot-discord-bot/issues/2) in [OverloadedOrama/godot-discord-bot](https://github.com/OverloadedOrama/godot-discord-bot)
 4. 🗣 Commented on [#5](https://github.com/OverloadedOrama/godot-discord-bot/issues/5#issuecomment-4396061069) in [OverloadedOrama/godot-discord-bot](https://github.com/OverloadedOrama/godot-discord-bot)
 5. 🔒 Closed issue [#5](https://github.com/OverloadedOrama/godot-discord-bot/issues/5) in [OverloadedOrama/godot-discord-bot](https://github.com/OverloadedOrama/godot-discord-bot)
