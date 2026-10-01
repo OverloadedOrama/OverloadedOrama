@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#159](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/159#issuecomment-5821091841) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
-2. 🗣 Commented on [#158](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/158#issuecomment-5821090772) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
-3. 🗣 Commented on [#157](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/157#issuecomment-5821084141) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
-4. 🎉 Merged PR [#53](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/53) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-5. ℹ️ Labeled PR [#53](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/53) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+1. 🔒 Closed issue [#1428](https://github.com/Orama-Interactive/Pixelorama/issues/1428) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🗣 Commented on [#159](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/159#issuecomment-5821091841) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+3. 🗣 Commented on [#158](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/158#issuecomment-5821090772) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+4. 🗣 Commented on [#157](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/157#issuecomment-5821084141) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+5. 🎉 Merged PR [#53](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/53) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
