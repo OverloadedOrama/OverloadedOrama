@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1618](https://github.com/Orama-Interactive/Pixelorama/pull/1618) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🗣 Commented on [#1649](https://github.com/Orama-Interactive/Pixelorama/issues/1649#issuecomment-6588381318) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🔒 Closed issue [#1649](https://github.com/Orama-Interactive/Pixelorama/issues/1649) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 💪 Opened PR [#1449](https://github.com/godotengine/godot-website/pull/1449) in [godotengine/godot-website](https://github.com/godotengine/godot-website)
-5. 🚀 Published release [v1.3](https://github.com/Orama-Interactive/VoxeloramaExtension/releases/tag/v1.3) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
+1. 🎉 Merged PR [#54](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/54) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+2. ℹ️ Labeled PR [#54](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/54) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+3. 💪 Opened PR [#54](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/54) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+4. 🎉 Merged PR [#1618](https://github.com/Orama-Interactive/Pixelorama/pull/1618) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🗣 Commented on [#1649](https://github.com/Orama-Interactive/Pixelorama/issues/1649#issuecomment-6588381318) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
