@@ -13,11 +13,11 @@ One of the reasons I co-founded Orama Interactive is because I am a thinker and 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/54) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-2. ℹ️ Labeled PR [#54](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/54) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-3. 💪 Opened PR [#54](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/54) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
-4. 🎉 Merged PR [#1618](https://github.com/Orama-Interactive/Pixelorama/pull/1618) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 🗣 Commented on [#1649](https://github.com/Orama-Interactive/Pixelorama/issues/1649#issuecomment-6588381318) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🗣 Commented on [#1655](https://github.com/Orama-Interactive/Pixelorama/pull/1655#issuecomment-6682316556) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🗣 Commented on [#1229](https://github.com/Orama-Interactive/Pixelorama/issues/1229#issuecomment-6682077372) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🔒 Closed issue [#1229](https://github.com/Orama-Interactive/Pixelorama/issues/1229) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🎉 Merged PR [#54](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/54) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
+5. ℹ️ Labeled PR [#54](https://github.com/flathub/com.orama_interactive.Pixelorama/pull/54) in [flathub/com.orama_interactive.Pixelorama](https://github.com/flathub/com.orama_interactive.Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
